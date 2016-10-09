@@ -6,7 +6,7 @@ Lien du sujet : https://docs.google.com/document/d/1LXibjlYBc56etNN1wXShtqpYOscR
 
 Utilisation : 
 
-    $ git clone https://github.com/CeliaEK/CabinetMedical-AngularJS
+    $ git clone https://github.com/CeliaEk/CabinetMedical-AngularJS
     $ cd projetAngular2015
     $ npm install
     $ gulp
